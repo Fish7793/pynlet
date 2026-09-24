@@ -1,5 +1,5 @@
-# uvstream
-*Simple stream processing inspired by streamz but with uvloop under the hood.*
+# pynlet
+*Simple stream processing inspired by streamz.*
 <hr>
 
 # Installing

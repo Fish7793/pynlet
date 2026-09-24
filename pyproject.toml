@@ -3,12 +3,12 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [project]
-name = "uvstream"
+name = "pynlet"
 version = "0.0.6"
 authors = [
   { name="Fish7793", email="asyncfish@proton.me" },
 ]
-description = "Simple stream processing inspired by streamz but with uvloop under the hood."
+description = "Simple stream processing inspired by streamz."
 readme = "README.md"
 requires-python = ">=3.12"
 classifiers = [
